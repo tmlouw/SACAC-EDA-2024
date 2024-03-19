@@ -6,7 +6,7 @@ The workshop will include multiple hands-on examples, and participants will have
 
 To take part in the workshop, you will need to clone this GitHub repository (repo) into your own personal Google Drive.
 
-The `clone-repo` file will guide you through the process of cloning the repo to your own Google Drive. You can open the `clone-repo` file directly by clicking on the "Open in Colab" button below. Note that this will navigate you to the Google Colab site, so you may want to open in a new tab 
+The `clone-repo` file will guide you through the process of cloning the repo to your own Google Drive. You can open the `clone-repo` file directly by clicking on the "Open in Colab" button below. Note that this will navigate you to the Google Colab site, so you may want to open in a new tab. You will need to provide permission for the repository to be cloned to your Google Drive. If you prefer, you may simply download the repository as a zip-file and upload it to your Google Drive manually.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tmlouw/SACAC-EDA-2024/blob/main/clone-repo.ipynb)
 
