@@ -6,4 +6,4 @@ The workshop will include multiple hands-on examples, and participants will have
 
 To take part in the workshop, you will need to clone this GitHub repository (repo) into your own personal Google Drive, which by implication means you will need a Google account.
 
-The `clone-repo` file will guide you through the process of cloning the repo to your own Drive. After you have cloned the repo to your Drive, we suggest you run the `test-setup` notebook to make sure everything is running correctly
+The `clone-repo` file will guide you through the process of cloning the repo to your own Drive. After you have cloned the repo to your Drive, we suggest you run the `test-setup` notebook to make sure everything is running correctly. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tmlouw)
