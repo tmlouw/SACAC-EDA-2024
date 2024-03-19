@@ -15,5 +15,5 @@ After you have cloned the repo to your Google Drive, we suggest you run the `tes
 1. Go to your [Google Drive](https://drive.google.com/) and navigate to the SACAC-EDA-2024 folder you've just cloned.
 2. Go to `/examples` and open the `test_setup` notebook
 3. Make sure to edit the path in the first cell of the notebook, as explained in the instructions.
-4. You should be able to all cells in the notebook
+4. You should be able to run all cells in the notebook
 
