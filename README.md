@@ -14,6 +14,7 @@ The `clone-repo` file will guide you through the process of cloning the repo to 
 After you have cloned the repo to your Drive, we suggest you run the `test-setup` notebook to make sure everything is running correctly. 
 1. Go to your [Google Drive](drive.google.com) and navigate to the SACAC-EDA-2024 folder you've just cloned.
 2. Go to `/examples` and open the `test_setup` notebook
+3. Make sure to edit the path in the first cell of the notebook, to point to the folder where you cloned the repository into. The last folder in the structure should be "SACAC-EDA-2024"
 
 You should be able to all cells in the notebook
 
