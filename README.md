@@ -1,7 +1,9 @@
 # SACAC Exploratory Data Analysis workshop
 Repository to host the SACAC Exploratory Data Analysis workshop files (25 March 2024)
 
-## Cloning the repository to your Google Drive
+## Setup
+
+### Cloning the repository to your Google Drive
 The workshop will include multiple hands-on examples, and participants will have the opportunity to get to know the various EDA tools available. We will rely on the Python programming language, implemented in [Google Colab](https://colab.google/) which requires no setup and provides access to compute resources.
 
 To take part in the workshop, you will need to clone this GitHub repository (repo) into your own personal Google Drive.
@@ -10,10 +12,38 @@ The `clone-repo` file will guide you through the process of cloning the repo to 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tmlouw/SACAC-EDA-2024/blob/main/clone-repo.ipynb)
 
-## Checking your setup in Google Colab
+### Checking your setup in Google Colab
 After you have cloned the repo to your Google Drive, we suggest you run the `test-setup` notebook to make sure everything is running correctly. 
 1. Go to your [Google Drive](https://drive.google.com/) and navigate to the SACAC-EDA-2024 folder you've just cloned.
 2. Go to `/examples` and open the `test_setup` notebook
 3. Make sure to edit the path in the first cell of the notebook, as explained in the instructions.
 4. You should be able to run all cells in the notebook
 
+## Topics covered during the workshop
+### Nature of data / Pre-processing / Time series
+* Context of process data analysis (CRISP-DM, process monitoring)
+* Process data - origins and ingest
+* Challenging process data characteristis
+* Data visualization
+* Data cleaning (removal, smoothing, replacement, downsampling)
+* Moving averages, exponential moving average --> rolling window noise removal
+* Missing values --> covered above
+* Omit for this addition: Autocorrelation
+* Done: Other visualisations? Scatter plots?
+* Omit for this addition: Granger Causality
+* Omit for this addition: Steady-state detection 
+
+### Dimensionality reduction
+*	Principal component analysis
+*	Manifold learning
+*	Auto associative network / Autoencoders (bonus content)
+
+### Clustering
+*	K-means clustering
+*	DBSCAN
+*	Interpreting clustering
+
+### Model interpretation (w/ tree-based methods) [LA]
+*	Decision tree introduction
+*	Variable importance + partial dependence
+*	Omit for this edition of the workshop: SHAP
