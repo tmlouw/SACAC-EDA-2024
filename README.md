@@ -19,6 +19,9 @@ After you have cloned the repo to your Google Drive, we suggest you run the `tes
 3. Make sure to edit the path in the first cell of the notebook, as explained in the instructions.
 4. You should be able to run all cells in the notebook
 
+### Data used during the EDA workshop
+The data used during the workshop is not hosted on GitHub. Please see the `README.md` file in the `\data` folder of this repository for information on loading the necessary data.
+
 ## Topics covered during the workshop
 ### Nature of data / Pre-processing / Time series
 * Context of process data analysis (CRISP-DM, process monitoring)
