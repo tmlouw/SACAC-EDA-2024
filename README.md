@@ -46,7 +46,7 @@ The data used during the workshop is not hosted on GitHub. Please see the `READM
 *	DBSCAN
 *	Interpreting clustering
 
-### Model interpretation (w/ tree-based methods) [LA]
+### Model interpretation (w/ tree-based methods)
 *	Decision tree introduction
 *	Variable importance + partial dependence
 *	Omit for this edition of the workshop: SHAP
